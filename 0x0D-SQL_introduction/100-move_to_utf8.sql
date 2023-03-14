@@ -1,4 +1,3 @@
-
 -- Change database to utf-8
 -- Use hbtn_0c_0 database
 USE hbtn_0c_0;
